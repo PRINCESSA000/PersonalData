@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\artem\\c#\\WinForms\\PD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|d:\\artem\\c#\\winforms\\pd\\pcform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|solutionrelative:pcform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|D:\\artem\\c#\\WinForms\\PD\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|D:\\artem\\c#\\WinForms\\PD\\pcform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|solutionrelative:pcform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|D:\\artem\\c#\\WinForms\\PD\\financechangeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|solutionrelative:financechangeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|D:\\artem\\c#\\WinForms\\PD\\financechangeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|solutionrelative:financechangeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|D:\\artem\\c#\\WinForms\\PD\\jsondatafinance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|solutionrelative:jsondatafinance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|D:\\artem\\c#\\WinForms\\PD\\financeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|solutionrelative:financeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|D:\\artem\\c#\\WinForms\\PD\\financeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|solutionrelative:financeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|D:\\artem\\c#\\WinForms\\PD\\passwordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|solutionrelative:passwordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|D:\\artem\\c#\\WinForms\\PD\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|D:\\artem\\c#\\WinForms\\PD\\passwordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|solutionrelative:passwordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|D:\\artem\\c#\\WinForms\\PD\\notesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E10D741B-BC2F-40C3-8EDA-E5EEB26C8007}|PD.csproj|solutionrelative:notesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PCForm.cs",
+              "DocumentMoniker": "D:\\artem\\c#\\WinForms\\PD\\PCForm.cs",
+              "RelativeDocumentMoniker": "PCForm.cs",
+              "ToolTip": "D:\\artem\\c#\\WinForms\\PD\\PCForm.cs",
+              "RelativeToolTip": "PCForm.cs",
+              "ViewState": "AgIAAGQBAAAAAAAAAADwv50BAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:21:20.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PCForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\artem\\c#\\WinForms\\PD\\PCForm.cs",
+              "RelativeDocumentMoniker": "PCForm.cs",
+              "ToolTip": "D:\\artem\\c#\\WinForms\\PD\\PCForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "PCForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-24T19:21:18.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JsonDataFinance.cs",
+              "DocumentMoniker": "D:\\artem\\c#\\WinForms\\PD\\JsonDataFinance.cs",
+              "RelativeDocumentMoniker": "JsonDataFinance.cs",
+              "ToolTip": "D:\\artem\\c#\\WinForms\\PD\\JsonDataFinance.cs",
+              "RelativeToolTip": "JsonDataFinance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:33:12.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinanceChangeForm.cs",
+              "DocumentMoniker": "D:\\artem\\c#\\WinForms\\PD\\FinanceChangeForm.cs",
+              "RelativeDocumentMoniker": "FinanceChangeForm.cs",
+              "ToolTip": "D:\\artem\\c#\\WinForms\\PD\\FinanceChangeForm.cs",
+              "RelativeToolTip": "FinanceChangeForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-01T21:06:31.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinanceChangeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\artem\\c#\\WinForms\\PD\\FinanceChangeForm.cs",
+              "RelativeDocumentMoniker": "FinanceChangeForm.cs",
+              "ToolTip": "D:\\artem\\c#\\WinForms\\PD\\FinanceChangeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FinanceChangeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-01T21:06:30.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FinanceForm.cs",
+              "DocumentMoniker": "D:\\artem\\c#\\WinForms\\PD\\FinanceForm.cs",
+              "RelativeDocumentMoniker": "FinanceForm.cs",
+              "ToolTip": "D:\\artem\\c#\\WinForms\\PD\\FinanceForm.cs",
+              "RelativeToolTip": "FinanceForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-01T20:55:44.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FinanceForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\artem\\c#\\WinForms\\PD\\FinanceForm.cs",
+              "RelativeDocumentMoniker": "FinanceForm.cs",
+              "ToolTip": "D:\\artem\\c#\\WinForms\\PD\\FinanceForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FinanceForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-23T21:29:38.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\artem\\c#\\WinForms\\PD\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\artem\\c#\\WinForms\\PD\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T21:01:34.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PasswordForm.cs",
+              "DocumentMoniker": "D:\\artem\\c#\\WinForms\\PD\\PasswordForm.cs",
+              "RelativeDocumentMoniker": "PasswordForm.cs",
+              "ToolTip": "D:\\artem\\c#\\WinForms\\PD\\PasswordForm.cs",
+              "RelativeToolTip": "PasswordForm.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAmwFYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-02T19:27:59.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PasswordForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\artem\\c#\\WinForms\\PD\\PasswordForm.cs",
+              "RelativeDocumentMoniker": "PasswordForm.cs",
+              "ToolTip": "D:\\artem\\c#\\WinForms\\PD\\PasswordForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PasswordForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-23T21:29:59.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\artem\\c#\\WinForms\\PD\\NotesForm.cs",
+              "RelativeDocumentMoniker": "NotesForm.cs",
+              "ToolTip": "D:\\artem\\c#\\WinForms\\PD\\NotesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "NotesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-23T21:29:52.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\artem\\c#\\WinForms\\PD\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\artem\\c#\\WinForms\\PD\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T19:57:14.57Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
